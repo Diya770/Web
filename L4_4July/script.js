@@ -1,7 +1,7 @@
 // let userData = [
-//   { name: "Prachi", age: "20" },
-//   { name: "Gaurav", age: "24" },
-//   { name: "Jiya", age: 20 }
+//   { name: "krishna", age: "20" },
+//   { name: "vasu", age: "24" },
+//   { name: "radha", age: 20 }
 // ];
 
 // let result = userData
@@ -56,17 +56,17 @@
 // })
 // //we can attach multiple .then() .catch()
 // .then((res)=>{
-//     console.log("Prachi got 50lpa package")
+//     console.log("hello")
 // })
 // .catch((err)=>{
-//     console.log("Prachi got rejected"); 
+//     console.log("rejected"); 
 //     // works specifically for above then
 // })
 // .then((res)=>{
-//     console.log("Prachi chose different field")
+//     console.log("chose different field")
 // })
 // .catch((err)=>{
-//     console.log("Prachi got rejected again");
+//     console.log("rejected again");
 // })
 //the last catch works for every error
 
