@@ -48,30 +48,6 @@
 
 
 
-////array operation
-
-// let arr=[2,3,4,56,7]
-// function doubleArrVal(arr){
-//     let arr1=[];
-//     for(let i=0;i<arr.length;i++){
-//         arr1[i]=arr[i]*2;
-
-//     }
-//     return arr1;
-// }
-// console.log(doubleArrVal(arr));
-
-// let arr=[2,3,4,56,7];
-// Array.prototype.doubleArrVal=function(){
-//     let output=[]
-//     for(var i=0;i<this.length;i++){
-//         output[i]=this[i]*2;
-//     }
-//     return output;
-// }
-
-
-// console.log(arr.doubleArrVal());
 
 //CURRYING IN JS
 
@@ -114,4 +90,14 @@ const fun=welcomeStudets.bind(student1, "Hi", "Take care");  // Using bind to cr
 fun(); // Calling the bound function
 
 
+//Topics to be covered:
+
+
 //EVENT CAPTURING AND BUBBLING
+
+//async and defer
+// Promise, Promise API, Async Await, Fetch, Try Catch, then catch
+
+//event delgation    -> //we can not efford multiple event listeners so it will do it for us in single part
+
+
